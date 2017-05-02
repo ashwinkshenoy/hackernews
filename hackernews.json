@@ -1,0 +1,896 @@
+[
+   {
+      "api_rate_limit":50000
+   },
+   {
+      "id":12579008,
+      "title":"You have two days to comment if you want stem cells to be classified as your own",
+      "url":"http://www.regulations.gov/document?D=FDA-2015-D-3719-0018",
+      "num_points":1,
+      "num_comments":0,
+      "author":"altstar",
+      "created_at":"9/26/2016 3:26"
+   },
+   {
+      "id":12579005,
+      "title":"SQLAR  the SQLite Archiver",
+      "url":"https://www.sqlite.org/sqlar/doc/trunk/README.md",
+      "num_points":1,
+      "num_comments":0,
+      "author":"blacksqr",
+      "created_at":"9/26/2016 3:24"
+   },
+   {
+      "id":12578997,
+      "title":"What if we just printed a flatscreen television on the side of our boxes?",
+      "url":"https://medium.com/vanmoof/our-secrets-out-f21c1f03fdc8#.ietxmez43",
+      "num_points":1,
+      "num_comments":0,
+      "author":"pavel_lishin",
+      "created_at":"9/26/2016 3:19"
+   },
+   {
+      "id":12578989,
+      "title":"algorithmic music",
+      "url":"http://cacm.acm.org/magazines/2011/7/109891-algorithmic-composition/fulltext",
+      "num_points":1,
+      "num_comments":0,
+      "author":"poindontcare",
+      "created_at":"9/26/2016 3:16"
+   },
+   {
+      "id":12578979,
+      "title":"How the Data Vault Enables the Next-Gen Data Warehouse and Data Lake",
+      "url":"https://www.talend.com/blog/2016/05/12/talend-and-Âthe-data-vaultÂ",
+      "num_points":1,
+      "num_comments":0,
+      "author":"markgainor1",
+      "created_at":"9/26/2016 3:14"
+   },
+   {
+      "id":12578975,
+      "title":"Saving the Hassle of Shopping",
+      "url":"https://blog.menswr.com/2016/09/07/whats-new-with-your-style-feed/",
+      "num_points":1,
+      "num_comments":1,
+      "author":"bdoux",
+      "created_at":"9/26/2016 3:13"
+   },
+   {
+      "id":12578954,
+      "title":"Macalifa  A new open-source music app for UWP that won't suck",
+      "url":"http://forums.windowscentral.com/windows-phone-apps/440523-macalifa-new-open-source-music-app-uwp-wont-suck.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"thecodrr",
+      "created_at":"9/26/2016 3:06"
+   },
+   {
+      "id":12578942,
+      "title":"GitHub  theweavrs/Macalifa: A music player written for UWP",
+      "url":"https://github.com/theweavrs/Macalifa",
+      "num_points":1,
+      "num_comments":0,
+      "author":"thecodrr",
+      "created_at":"9/26/2016 3:04"
+   },
+   {
+      "id":12578919,
+      "title":"Google Allo  first Impression",
+      "url":"http://prodissues.com/2016/09/google-allo-first-impression.html",
+      "num_points":3,
+      "num_comments":0,
+      "author":"jandll",
+      "created_at":"9/26/2016 2:57"
+   },
+   {
+      "id":12578918,
+      "title":"Advanced Multimedia on the Linux Command Line",
+      "url":"https://avi.alkalay.net/2016/09/multimedia-linux-cli.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"mynameislegion",
+      "created_at":"9/26/2016 2:56"
+   },
+   {
+      "id":12578908,
+      "title":"Ask HN: What TLD do you use for local development?",
+      "url":"",
+      "num_points":4,
+      "num_comments":7,
+      "author":"Sevrene",
+      "created_at":"9/26/2016 2:53"
+   },
+   {
+      "id":12578893,
+      "title":"Muroc Maru",
+      "url":"http://www.weirdca.com/location.php?location=511",
+      "num_points":1,
+      "num_comments":0,
+      "author":"x43b",
+      "created_at":"9/26/2016 2:46"
+   },
+   {
+      "id":12578879,
+      "title":"Why companies make their products worse",
+      "url":"https://www.1843magazine.com/ideas/the-daily/why-companies-make-their-products-worse",
+      "num_points":4,
+      "num_comments":0,
+      "author":"RachelF",
+      "created_at":"9/26/2016 2:40"
+   },
+   {
+      "id":12578866,
+      "title":"Tuning AWS SQS Queues",
+      "url":"http://blog.simontaranto.com/post/2016-09-25-tuning-aws-sqs.html/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"srt32",
+      "created_at":"9/26/2016 2:37"
+   },
+   {
+      "id":12578857,
+      "title":"The Promise of GitHub",
+      "url":"http://constantbetasoftware.com/2016/09/26/github.html",
+      "num_points":2,
+      "num_comments":0,
+      "author":"ttam",
+      "created_at":"9/26/2016 2:34"
+   },
+   {
+      "id":12578834,
+      "title":"Joint R&D Has Its Ups and Downs",
+      "url":"http://semiengineering.com/joint-rd-has-its-ups-and-downs/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Lind5",
+      "created_at":"9/26/2016 2:28"
+   },
+   {
+      "id":12578831,
+      "title":"IBM announces next implementation of Apples Swift developer language",
+      "url":"https://9to5mac.com/2016/09/25/ibm-announces-next-implementation-of-apples-swift-developer-language",
+      "num_points":2,
+      "num_comments":0,
+      "author":"phodo",
+      "created_at":"9/26/2016 2:28"
+   },
+   {
+      "id":12578822,
+      "title":"Amazons Algorithms Dont Find You the Best Deals",
+      "url":"https://www.technologyreview.com/s/602442/amazons-algorithms-dont-find-you-the-best-deals/",
+      "num_points":1,
+      "num_comments":1,
+      "author":"yarapavan",
+      "created_at":"9/26/2016 2:26"
+   },
+   {
+      "id":12578816,
+      "title":"Ruffled Feathers",
+      "url":"http://www.texasmonthly.com/articles/whooping-cranes-texas/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Thevet",
+      "created_at":"9/26/2016 2:23"
+   },
+   {
+      "id":12578806,
+      "title":"The Veil of Ignorance  Design and Accessbility",
+      "url":"https://blog.marvelapp.com/the-veil-of-ignorance/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"muratmutlu",
+      "created_at":"9/26/2016 2:21"
+   },
+   {
+      "id":12578796,
+      "title":"OMeta#: Who? What? When? Where? Why? (2008)",
+      "url":"http://www.moserware.com/2008/06/ometa-who-what-when-where-why.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"adamnemecek",
+      "created_at":"9/26/2016 2:18"
+   },
+   {
+      "id":12578791,
+      "title":"Burning Ship fractal",
+      "url":"https://en.wikipedia.org/wiki/Burning_Ship_fractal",
+      "num_points":2,
+      "num_comments":0,
+      "author":"colinprince",
+      "created_at":"9/26/2016 2:17"
+   },
+   {
+      "id":12578786,
+      "title":"From Hiroko to Susie: The untold stories of Japanese war brides",
+      "url":"http://www.washingtonpost.com/sf/national/2016/09/22/from-hiroko-to-susie-the-untold-stories-of-japanese-war-brides/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"kawera",
+      "created_at":"9/26/2016 2:16"
+   },
+   {
+      "id":12578753,
+      "title":"ROBOLUTION:Robocalyptic Themed Machine Learning and Computer Vision Tutorials",
+      "url":"http://robolution.co/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"v3ss0n",
+      "created_at":"9/26/2016 2:07"
+   },
+   {
+      "id":12578738,
+      "title":"Segas Plans for World Domination (1993)",
+      "url":"https://www.wired.com/1993/06/sega/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"luu",
+      "created_at":"9/26/2016 2:04"
+   },
+   {
+      "id":12578725,
+      "title":"Google Car: Sense and Money Impasse",
+      "url":"https://mondaynote.com/google-car-sense-and-money-impasse-1e5dcf1924d#.15qm8e56e",
+      "num_points":4,
+      "num_comments":0,
+      "author":"kawera",
+      "created_at":"9/26/2016 2:01"
+   },
+   {
+      "id":12578705,
+      "title":"Why an open Web is important when sea levels are rising",
+      "url":"https://changelog.com/221/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"mynameislegion",
+      "created_at":"9/26/2016 1:58"
+   },
+   {
+      "id":12578700,
+      "title":"Forever 23: The Rapid Rise and Sudden Disappearance of Velva Darling",
+      "url":"http://pictorial.jezebel.com/forever-23-the-rapid-rise-and-sudden-disappearance-of-1786330859",
+      "num_points":1,
+      "num_comments":0,
+      "author":"samclemens",
+      "created_at":"9/26/2016 1:57"
+   },
+   {
+      "id":12578694,
+      "title":"Emergency dose of epinephrine that does not cost an arm and a leg",
+      "url":"http://m.imgur.com/gallery/th6Ua",
+      "num_points":2,
+      "num_comments":1,
+      "author":"dredmorbius",
+      "created_at":"9/26/2016 1:54"
+   },
+   {
+      "id":12578681,
+      "title":"Abu Ashraf Masnun: Introduction to Django Channels",
+      "url":"http://masnun.rocks/2016/09/25/introduction-to-django-channels/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"samber",
+      "created_at":"9/26/2016 1:49"
+   },
+   {
+      "id":12578667,
+      "title":"Airlines Embrace Pollution Plan That Could Cost Them $24B",
+      "url":"http://www.bloomberg.com/news/articles/2016-09-25/airlines-embrace-pollution-plan-that-could-cost-them-24-billion",
+      "num_points":1,
+      "num_comments":0,
+      "author":"blondie9x",
+      "created_at":"9/26/2016 1:47"
+   },
+   {
+      "id":12578665,
+      "title":"China Completes Largest Radio Telescope in the World",
+      "url":"http://www.npr.org/sections/thetwo-way/2016/09/25/495036700/china-completes-largest-radio-telescope-in-the-world",
+      "num_points":1,
+      "num_comments":0,
+      "author":"happy-go-lucky",
+      "created_at":"9/26/2016 1:46"
+   },
+   {
+      "id":12578662,
+      "title":"The Fastest Electric Vehicle in the World",
+      "url":"http://pluginfuture.com/the-fastest-electric-vehicle-in-the-world/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"peterkor",
+      "created_at":"9/26/2016 1:46"
+   },
+   {
+      "id":12578649,
+      "title":"Arnold Palmer dead at 87",
+      "url":"http://www.espn.com/golf/story/_/id/17639539/arnold-palmer-dies-87",
+      "num_points":3,
+      "num_comments":0,
+      "author":"execCoach",
+      "created_at":"9/26/2016 1:43"
+   },
+   {
+      "id":12578624,
+      "title":"Phone Makers Could Cut Off Drivers. So Why Dont They?",
+      "url":"http://www.nytimes.com/2016/09/25/technology/phone-makers-could-cut-off-drivers-so-why-dont-they.html",
+      "num_points":4,
+      "num_comments":1,
+      "author":"danso",
+      "created_at":"9/26/2016 1:37"
+   },
+   {
+      "id":12578604,
+      "title":"THE ENIAC:Electronic Numerical Integrator and Computer",
+      "url":"https://www.youtube.com/watch?v=goi6NAHMKog",
+      "num_points":1,
+      "num_comments":0,
+      "author":"bane",
+      "created_at":"9/26/2016 1:32"
+   },
+   {
+      "id":12578568,
+      "title":"Cuba's DIY Inventions from 30 Years of Isolation [video]",
+      "url":"https://www.youtube.com/watch?v=v-XS4aueDUg",
+      "num_points":1,
+      "num_comments":0,
+      "author":"GuiA",
+      "created_at":"9/26/2016 1:26"
+   },
+   {
+      "id":12578556,
+      "title":"OpenMW, Open Source Elderscrolls III: Morrowind Reimplementation",
+      "url":"https://openmw.org/en/",
+      "num_points":32,
+      "num_comments":3,
+      "author":"rocky1138",
+      "created_at":"9/26/2016 1:24"
+   },
+   {
+      "id":12578548,
+      "title":"Shame on Microsoft for Leaving Surface Pro Customers in the Dark",
+      "url":"https://redmondmag.com/articles/2016/10/01/surface-pro-customers-in-the-dark.aspx",
+      "num_points":2,
+      "num_comments":0,
+      "author":"megamike48",
+      "created_at":"9/26/2016 1:23"
+   },
+   {
+      "id":12578539,
+      "title":"Unity  Google daydream",
+      "url":"https://unity3d.com/partners/google/daydream",
+      "num_points":2,
+      "num_comments":0,
+      "author":"jonbaer",
+      "created_at":"9/26/2016 1:21"
+   },
+   {
+      "id":12578536,
+      "title":"Unity's Google Daydream VR Technical Preview Available Now",
+      "url":"https://blogs.unity3d.com/2016/09/22/daydream-technical-preview-available-now/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"jonbaer",
+      "created_at":"9/26/2016 1:20"
+   },
+   {
+      "id":12578527,
+      "title":"Google internet balloon uses AI to stay in place for weeks",
+      "url":"https://www.engadget.com/2016/09/25/google-project-loon-ai/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"jonbaer",
+      "created_at":"9/26/2016 1:18"
+   },
+   {
+      "id":12578522,
+      "title":"Ask HN: How do you pass on your work when you die?",
+      "url":"",
+      "num_points":6,
+      "num_comments":3,
+      "author":"PascLeRasc",
+      "created_at":"9/26/2016 1:17"
+   },
+   {
+      "id":12578514,
+      "title":"PostgreSQL RDS pg-stat-ramdisk-size new feature and its calculations",
+      "url":"http://www.3manuek.com/pgstatramdisksize",
+      "num_points":1,
+      "num_comments":0,
+      "author":"3manuek",
+      "created_at":"9/26/2016 1:16"
+   },
+   {
+      "id":12578463,
+      "title":"Using Gmail like vi",
+      "url":"https://medium.com/@gregsramblings/gmail-keyboard-shortcuts-using-3c845bb77043#.vacg7rxuj",
+      "num_points":2,
+      "num_comments":0,
+      "author":"gw5815",
+      "created_at":"9/26/2016 1:05"
+   },
+   {
+      "id":12578446,
+      "title":"The product management job search",
+      "url":"https://medium.com/@zeteg/the-product-management-job-search-986c61039aa3",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Shenglong",
+      "created_at":"9/26/2016 1:02"
+   },
+   {
+      "id":12578430,
+      "title":"Wireless signals can detect your feelings with new device",
+      "url":"http://phys.org/news/2016-09-wireless-device.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"upen",
+      "created_at":"9/26/2016 0:57"
+   },
+   {
+      "id":12578419,
+      "title":"The Women in Product",
+      "url":"https://medium.com/code-like-a-girl/the-women-in-product-8f3234bacc00#.qnldsnx8i",
+      "num_points":1,
+      "num_comments":0,
+      "author":"DinahDavis",
+      "created_at":"9/26/2016 0:54"
+   },
+   {
+      "id":12578414,
+      "title":"My CppCon 2016 trip report (thoughts on my favorite talks and my sessions)",
+      "url":"https://vittorioromeo.info/index/blog/cppcon2016_trip_report.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"greg7mdp",
+      "created_at":"9/26/2016 0:54"
+   },
+   {
+      "id":12578368,
+      "title":"Six Recipes for Software Managers",
+      "url":"http://eng.localytics.com/six-recipes-for-software-managers/",
+      "num_points":8,
+      "num_comments":0,
+      "author":"abuggia",
+      "created_at":"9/26/2016 0:44"
+   },
+   {
+      "id":12578366,
+      "title":"The Munger OS: How to Live a Life That Really Works",
+      "url":"https://www.farnamstreetblog.com/2016/04/munger-operating-system/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"kareemm",
+      "created_at":"9/26/2016 0:44"
+   },
+   {
+      "id":12578341,
+      "title":"I Let Facebooks Algorithms Run My Life for Weeks",
+      "url":"https://www.buzzfeed.com/charliewarzel/i-let-facebooks-algorithms-run-my-life-for-weeks",
+      "num_points":2,
+      "num_comments":0,
+      "author":"prostoalex",
+      "created_at":"9/26/2016 0:38"
+   },
+   {
+      "id":12578335,
+      "title":"Show HN: Finding puns computationally",
+      "url":"http://puns.samueltaylor.org/",
+      "num_points":2,
+      "num_comments":0,
+      "author":"saamm",
+      "created_at":"9/26/2016 0:36"
+   },
+   {
+      "id":12578311,
+      "title":"Americas Lost Boys: Men who choose video games over work",
+      "url":"https://www.firstthings.com/blogs/firstthoughts/2016/08/americas-lost-boys",
+      "num_points":5,
+      "num_comments":1,
+      "author":"jseliger",
+      "created_at":"9/26/2016 0:31"
+   },
+   {
+      "id":12578283,
+      "title":"Why the narrative of sexism in Bangalore startups needs more nuance and voices",
+      "url":"https://medium.com/code-like-a-girl/why-the-narrative-of-sexism-among-bangalore-startups-needs-more-nuance-and-more-voices-6225462c4175#.4yn5yq32h",
+      "num_points":1,
+      "num_comments":0,
+      "author":"DinahDavis",
+      "created_at":"9/26/2016 0:23"
+   },
+   {
+      "id":12578212,
+      "title":"A Walking Tour of New Yorks Massive Surveillance Network",
+      "url":"https://theintercept.com/2016/09/24/a-walking-tour-of-new-yorks-massive-surveillance-network/",
+      "num_points":7,
+      "num_comments":1,
+      "author":"bootload",
+      "created_at":"9/26/2016 0:06"
+   },
+   {
+      "id":12578186,
+      "title":"Job app website farms my social network links. Illegal, sketchy, or neither?",
+      "url":"",
+      "num_points":1,
+      "num_comments":1,
+      "author":"macscam",
+      "created_at":"9/26/2016 0:02"
+   },
+   {
+      "id":12578184,
+      "title":"A Theory of Nothing New",
+      "url":"https://www.amazon.com/dp/1534820841",
+      "num_points":1,
+      "num_comments":1,
+      "author":"Koshkin",
+      "created_at":"9/26/2016 0:01"
+   },
+   {
+      "id":12578182,
+      "title":"Show HN: A simple library for complicated animations",
+      "url":"https://christinecha.github.io/choreographer-js/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"christinecha",
+      "created_at":"9/26/2016 0:01"
+   },
+   {
+      "id":12578175,
+      "title":"Mistakenly Seeking Solitude (2014)",
+      "url":"http://psycnet.apa.org/psycinfo/2014-28833-001",
+      "num_points":1,
+      "num_comments":0,
+      "author":"helloworld",
+      "created_at":"9/25/2016 23:59"
+   },
+   {
+      "id":12578169,
+      "title":"Getting to know GNU social",
+      "url":"http://blog.jodyribton.me/post/getting-to-know-gnu-social/",
+      "num_points":6,
+      "num_comments":0,
+      "author":"itonula",
+      "created_at":"9/25/2016 23:58"
+   },
+   {
+      "id":12578163,
+      "title":"Microsoft Bets Its Future on a Reprogrammable Computer Chip",
+      "url":"https://www.wired.com/2016/09/microsoft-bets-future-chip-reprogram-fly/",
+      "num_points":38,
+      "num_comments":12,
+      "author":"benaadams",
+      "created_at":"9/25/2016 23:57"
+   },
+   {
+      "id":12578111,
+      "title":"Free PacktPub Book: R for Data Science",
+      "url":"https://www.packtpub.com/packt/offers/free-learning?utm_source=Sentori&utm_medium=Email&utm_campaign=Free+Learning+30th+April+15",
+      "num_points":1,
+      "num_comments":1,
+      "author":"prostoalex",
+      "created_at":"9/25/2016 23:47"
+   },
+   {
+      "id":12578100,
+      "title":"Adobe and Berkeley's new deep learning image editing tool",
+      "url":"https://github.com/junyanz/iGAN",
+      "num_points":52,
+      "num_comments":8,
+      "author":"visionp",
+      "created_at":"9/25/2016 23:44"
+   },
+   {
+      "id":12578098,
+      "title":"Show HN: WebGL visualization of DNA sequences",
+      "url":"http://grondilu.github.io/dna.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"grondilu",
+      "created_at":"9/25/2016 23:44"
+   },
+   {
+      "id":12578036,
+      "title":"The State Theory of Money",
+      "url":"https://docs.google.com/document/d/13uY0n574BjFy0wCVmU--s-zxS2vJgTf0B3ARi8-6jYM/edit#",
+      "num_points":3,
+      "num_comments":0,
+      "author":"dools",
+      "created_at":"9/25/2016 23:29"
+   },
+   {
+      "id":12578034,
+      "title":"Anti-Spoofing, BCP 38, and the Tragedy of the Commons (2014)",
+      "url":"http://www.internetsociety.org/deploy360/blog/2014/07/anti-spoofing-bcp-38-and-the-tragedy-of-the-commons/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"meanduck",
+      "created_at":"9/25/2016 23:29"
+   },
+   {
+      "id":12578028,
+      "title":"Appropriate Uses for SQLite",
+      "url":"https://sqlite.org/whentouse.html",
+      "num_points":125,
+      "num_comments":56,
+      "author":"ftclausen",
+      "created_at":"9/25/2016 23:27"
+   },
+   {
+      "id":12578017,
+      "title":"Secret to the Uber Economy Is Wealth Inequality",
+      "url":"http://qz.com/312537/the-secret-to-the-uber-economy-is-wealth-inequality/",
+      "num_points":34,
+      "num_comments":15,
+      "author":"geodel",
+      "created_at":"9/25/2016 23:25"
+   },
+   {
+      "id":12578007,
+      "title":"The Coming Public Service Loan Forgiveness Bonanza",
+      "url":"https://www.brookings.edu/research/the-coming-public-service-loan-forgiveness-bonanza/",
+      "num_points":3,
+      "num_comments":1,
+      "author":"prostoalex",
+      "created_at":"9/25/2016 23:22"
+   },
+   {
+      "id":12577991,
+      "title":"Show HN: Pomodoro-centric, heirarchical project management with ES6 modules",
+      "url":"https://github.com/jakebian/zeal",
+      "num_points":2,
+      "num_comments":0,
+      "author":"dbranes",
+      "created_at":"9/25/2016 23:17"
+   },
+   {
+      "id":12577971,
+      "title":"The Next Phase of Agricultural Innovation Begins Now",
+      "url":"http://www.iselectfund.com/iselect/the-next-phase-of-agricultural-innovation-begins-now/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"innovationanarc",
+      "created_at":"9/25/2016 23:14"
+   },
+   {
+      "id":12577967,
+      "title":"Kaltix",
+      "url":"https://en.wikipedia.org/wiki/Kaltix",
+      "num_points":2,
+      "num_comments":0,
+      "author":"dkarapetyan",
+      "created_at":"9/25/2016 23:13"
+   },
+   {
+      "id":12577966,
+      "title":"Gary Johnson Calls for Human Settlement of Other Planets",
+      "url":"http://blogs.wsj.com/washwire/2016/09/25/gary-johnson-calls-for-human-settlement-of-other-planets/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"daegloe",
+      "created_at":"9/25/2016 23:13"
+   },
+   {
+      "id":12577964,
+      "title":"Clean, Cheap and Profitable: Boosting Real Estate Valuations with Innovation",
+      "url":"http://www.iselectfund.com/iselect/clean-cheap-and-profitable-boosting-real-estate-valuations-the-easy-way/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"innovationanarc",
+      "created_at":"9/25/2016 23:12"
+   },
+   {
+      "id":12577951,
+      "title":"NFL Thursdays on Twitter",
+      "url":"http://dangoldin.com/2016/09/25/nfl-thursdays-on-twitter/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"dangoldin",
+      "created_at":"9/25/2016 23:09"
+   },
+   {
+      "id":12577908,
+      "title":"Ask HN: How a DNS problem can be limited to a geographic region?",
+      "url":"",
+      "num_points":1,
+      "num_comments":0,
+      "author":"kuon",
+      "created_at":"9/25/2016 22:57"
+   },
+   {
+      "id":12577903,
+      "title":"Review of the Three Body Problem Trilogy",
+      "url":"https://mediancodex.com/2016/09/25/three-body-problem/",
+      "num_points":4,
+      "num_comments":0,
+      "author":"MattTse",
+      "created_at":"9/25/2016 22:55"
+   },
+   {
+      "id":12577892,
+      "title":"MIT Challenge: 4 year MIT CS curriculum in 1 year (2012)",
+      "url":"https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/",
+      "num_points":5,
+      "num_comments":0,
+      "author":"sacheendra",
+      "created_at":"9/25/2016 22:52"
+   },
+   {
+      "id":12577883,
+      "title":"LXQt 0.11 Released",
+      "url":"http://lxqt.org/release/2016/09/24/lxqt-011-et-al/",
+      "num_points":40,
+      "num_comments":13,
+      "author":"Tsiolkovsky",
+      "created_at":"9/25/2016 22:51"
+   },
+   {
+      "id":12577870,
+      "title":"Ask HN: Why join a fund when you can be an angel?",
+      "url":"",
+      "num_points":1,
+      "num_comments":3,
+      "author":"anthony_james",
+      "created_at":"9/25/2016 22:48"
+   },
+   {
+      "id":12577859,
+      "title":"What If One Click Buying Were Internetwide?",
+      "url":"http://www.nytimes.com/2016/09/26/business/dealbook/what-if-one-click-buying-were-internetwide.html",
+      "num_points":1,
+      "num_comments":1,
+      "author":"my_first_acct",
+      "created_at":"9/25/2016 22:45"
+   },
+   {
+      "id":12577857,
+      "title":"Amazon Fined for Shipping Lithium Batteries on Passenger Planes",
+      "url":"http://www.wired.co.uk/article/amazon-fine-batteries-plane",
+      "num_points":23,
+      "num_comments":5,
+      "author":"JboyOzette",
+      "created_at":"9/25/2016 22:44"
+   },
+   {
+      "id":12577852,
+      "title":"How to pull workers back from the brink of burnout",
+      "url":"https://techcrunch.com/2016/09/25/how-to-pull-workers-back-from-the-brink-of-burnout/",
+      "num_points":5,
+      "num_comments":0,
+      "author":"altstar",
+      "created_at":"9/25/2016 22:41"
+   },
+   {
+      "id":12577846,
+      "title":"Blue Bottle Coffee is raising another a big round of funding",
+      "url":"https://techcrunch.com/2016/09/25/blue-bottle-coffee-is-raising-another-a-big-round-of-funding/",
+      "num_points":3,
+      "num_comments":0,
+      "author":"confiscate",
+      "created_at":"9/25/2016 22:39"
+   },
+   {
+      "id":12577835,
+      "title":"Snapchat Releases First Hardware Product Spectacle Destined to Fail",
+      "url":"http://nerdsmagazine.com/snapchat-releases-spectacle-first-hardware-product-destined-to-fail/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"Nerdsmagazine",
+      "created_at":"9/25/2016 22:37"
+   },
+   {
+      "id":12577823,
+      "title":"Bits and Pieces: The Lifecycle of a Moral Panic",
+      "url":"https://harry-lewis.blogspot.com/2016/09/the-lifecycle-of-moral-panic.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"severine",
+      "created_at":"9/25/2016 22:34"
+   },
+   {
+      "id":12577792,
+      "title":"Smart pointers and move semantics in modern C++",
+      "url":"https://www.oreilly.com/ideas/2-major-reasons-why-modern-c-is-a-performance-beast?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+oreilly%2Fradar%2Fatom+%28O%27Reilly+Radar%29",
+      "num_points":55,
+      "num_comments":40,
+      "author":"severine",
+      "created_at":"9/25/2016 22:27"
+   },
+   {
+      "id":12577787,
+      "title":"UnGoogled Chromium: Chromium with enhanced privacy, control and transparency",
+      "url":"https://github.com/Eloston/ungoogled-chromium",
+      "num_points":251,
+      "num_comments":120,
+      "author":"kawera",
+      "created_at":"9/25/2016 22:26"
+   },
+   {
+      "id":12577784,
+      "title":"Christos Running Fence 40 Years Later: Photos, Stories and Memories",
+      "url":"http://www.sonomamag.com/40-years-later-christos-running-fence-in-sonoma-marin/",
+      "num_points":2,
+      "num_comments":1,
+      "author":"stevewilhelm",
+      "created_at":"9/25/2016 22:25"
+   },
+   {
+      "id":12577773,
+      "title":"This is what happens when you reply to spam email",
+      "url":"https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email",
+      "num_points":4,
+      "num_comments":0,
+      "author":"NicoJuicy",
+      "created_at":"9/25/2016 22:23"
+   },
+   {
+      "id":12577772,
+      "title":"Windows 10 Could Track Absolutely Everything, MS Patents New Tracking Tech",
+      "url":"http://news.softpedia.com/news/windows-10-might-soon-track-absolutely-everything-you-do-for-your-own-good-508602.shtml",
+      "num_points":10,
+      "num_comments":4,
+      "author":"type0",
+      "created_at":"9/25/2016 22:23"
+   },
+   {
+      "id":12577763,
+      "title":"Migrating Pinterest profiles to React",
+      "url":"https://engineering.pinterest.com/blog/migrating-pinterest-profiles-react",
+      "num_points":1,
+      "num_comments":0,
+      "author":"sunils34",
+      "created_at":"9/25/2016 22:20"
+   },
+   {
+      "id":12577740,
+      "title":"MIDI Enhancements in Windows 10",
+      "url":"https://blogs.windows.com/buildingapps/2016/09/21/midi-enhancements-in-windows-10/#qIkxPfkAGaFSzpju.97",
+      "num_points":2,
+      "num_comments":0,
+      "author":"evo_9",
+      "created_at":"9/25/2016 22:13"
+   },
+   {
+      "id":12577733,
+      "title":"Remote disk encryption unlock via ssh",
+      "url":"https://www.lazzaro.com.ar/Remote-disk-encryption-unlock-ssh",
+      "num_points":1,
+      "num_comments":0,
+      "author":"llazzaro",
+      "created_at":"9/25/2016 22:12"
+   },
+   {
+      "id":12577719,
+      "title":"Proving Grounds: The Geography of the MOBA Map",
+      "url":"https://themeta.killscreen.com/proving-grounds-geography-moba-map/",
+      "num_points":1,
+      "num_comments":0,
+      "author":"cpeterso",
+      "created_at":"9/25/2016 22:07"
+   },
+   {
+      "id":12577685,
+      "title":"What I Learned from a Stroke at 26: Make Time to Untangle",
+      "url":"http://www.nytimes.com/2016/09/25/jobs/what-i-learned-from-a-stroke-at-26-make-time-to-untangle.html?smid=fb-share",
+      "num_points":81,
+      "num_comments":28,
+      "author":"allsystemsgo",
+      "created_at":"9/25/2016 21:58"
+   },
+   {
+      "id":12577676,
+      "title":"Understanding evdev",
+      "url":"http://who-t.blogspot.com/2016/09/understanding-evdev.html",
+      "num_points":1,
+      "num_comments":0,
+      "author":"type0",
+      "created_at":"9/25/2016 21:57"
+   },
+   {
+      "id":12577669,
+      "title":"A Simple Commodore 64 Game in C++17",
+      "url":"https://www.youtube.com/watch?v=zBkNBP00wJE",
+      "num_points":1,
+      "num_comments":0,
+      "author":"lefticus",
+      "created_at":"9/25/2016 21:56"
+   }
+]

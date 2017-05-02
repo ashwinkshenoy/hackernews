@@ -1,0 +1,153 @@
+<html>
+	<head>
+		<title>Hacker News</title>
+		<meta charset="utf-8">
+		<meta name="theme-color" content="#03A9F4">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+		<link rel="apple-touch-icon" sizes="50x50" type="image/png" href="img/icons/favicon.png">
+		<link rel="icon" sizes="50x50" type="image/png" href="img/icons/favicon.png">
+		<!-- CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/font-awesome.min.css">
+		<link rel="stylesheet" href="css/style.css">
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+				<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+				<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+
+		<div class="header">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-1 col-mgbtm">
+						<img src="img/icons/logo.png" alt="logo" class="img-responsive">
+					</div>
+					<div class="col-sm-10 col-mgbtm">
+						<div class="hd1">Hacker News</div>
+						<div class="txt1">Best Hacker News Articles</div>
+					</div>
+					<div class="col-sm-1 col-mgbtm">
+						<i class="fa fa-refresh refresh addTool" aria-hidden="true" onClick="fetchApi()" data-placement="bottom" title="Fetch Api Again(Extra)" id="refresh"></i>
+					</div>
+				</div>
+			</div><!--container end-->
+		</div><!--header-->
+
+		<div class="news-section">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 col-mgbtm">
+						<div class="form-group search">
+							<div class="input-group">
+								<input type="text" name="search" id="search" placeholder="Search" class="search form-control sea-txt1 addTool" onkeyup="search1()" data-placement="bottom" title="Enter Title to search">
+								<span>
+									<button name="button" type="submit" class="input-group-addon">
+										<i class="fa fa-search" aria-hidden="true"></i>
+									</button>
+								</span>
+							</div><!--input-group-->
+						</div><!--forrm-group end-->
+					</div><!--col-sm-* end-->
+					<div class="col-sm-8 col-mgbtm">
+						<div class="sort-section">
+							<ul>
+								<li><i class="fa fa-filter" aria-hidden="true"></i> Sort by:</li>
+								<li class="addTool" data-placement="bottom" title="Sort Points - Ascending Order">
+									<a onClick="sortPoints(0)">No. of Points--Ascending</a>
+								</li>
+								<li class="addTool" data-placement="bottom" title="Sort Points - Descending Order">
+									<a onClick="sortPoints(1)">No. of Points--Descending</a>
+								</li>
+								<li class="addTool" data-placement="bottom" title="Sort Date - New to Old">
+									<a onClick="sortDate(1)">Date--New to Old</a>
+								</li>
+								<li class="addTool" data-placement="bottom" title="Sort Date - Old to New">
+									<a onClick="sortDate(0)">Date--Old to New</a>
+								</li>
+							</ul>
+						</div><!--sort-section end-->
+					</div><!--col-sm-* end-->
+				</div><!--row end-->
+
+				<br>
+
+				<div class="white-box">
+					<div class="loader text-center" id="loader">
+						<img src="img/icons/loader.gif" alt="loader" class="img-responsive">
+					</div>
+					<ol class="news-list" id="newsList">
+						<!-- Content will get come here -->
+						<!-- Sample Template -->
+						<!-- <li>
+							<table>
+								<tbody>
+									<tr>
+										<td>
+											<a href="#" class="upvote"><i class="fa fa-caret-up" aria-hidden="true"></i></a>
+										</td>
+										<td>
+											<a href="#" target="_blank">
+												<div class="hd2">
+													You have two days to comment if you want stem cells to be classified as your own
+													<small>(www.techcrunch.com)</small>
+												</div>
+											</a>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<ul class="news-details">
+								<li>192 Points</li>
+								<li>by Ashwin</li>
+								<li>3 Hours ago</li>
+								<li>77 Comments</li>
+							</ul>
+						</li> -->
+						<!-- Sample Template end -->
+					</ol>
+					<nav aria-label="Page navigation" class="page-nav">
+						<ul class="pagination" id="pagination">
+							<!-- Pagination template -->
+							<!-- Sample Template -->
+							<!-- <li class="active"><a onClick="page(0)">1</a></li>
+							<li><a onClick="page(1)">2</a></li>
+							<li><a onClick="page(2)">3</a></li>
+							<li><a onClick="page(3)">4</a></li>
+							<li><a onClick="page(4)">5</a></li>
+							<li><a onClick="page(5)">6</a></li>
+							<li><a onClick="page(6)">7</a></li>
+							<li><a onClick="page(7)">8</a></li>
+							<li><a onClick="page(8)">9</a></li>
+							<li><a onClick="page(9)">10</a></li> -->
+							<!-- Pagination template end -->
+						</ul>
+					</nav>
+				</div><!--white-box end-->
+				<br><br>
+			</div><!--container end-->
+		</div><!--news-section end-->
+
+		<!--JS-->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/script.js"></script>
+	</body>
+</html>
+<!--
+               __            __
+_____    _____|  |____  _  _|__| ____
+\__  \  /  ___/  |  \ \/ \/ /  |/    \
+ / __ \_\___ \|   Y  \     /|  |   |  \
+(____  /____  >___|  /\/\_/ |__|___|  /
+     \/     \/     \/               \/
+
+
+ashwinkshenoy@gmail.com
+http://ashwinshenoy.com
+@ashwinkshenoy
+
+-->
