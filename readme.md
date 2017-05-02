@@ -1,4 +1,4 @@
-HACKER NEWS - CLEARTRIP 
+HACKER NEWS 
 ---
 
 
@@ -39,3 +39,8 @@ A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 1. Refresh button added at top right corner to call fresh API.
 2. Tooltips Added.
 
+
+Check out the [Demo](http://ashwinkshenoy.github.io/hackernews)
+
+
+[![Preview](https://raw.githubusercontent.com/ashwinkshenoy/hackernews/master/screenshot.png)](https://ashwinshenoy.com/bot)
