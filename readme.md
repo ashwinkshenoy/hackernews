@@ -10,7 +10,7 @@ A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 1. Preferably add the folder in LAMP/LEMP/XAMPP server and open via localhost
 
 
-Usage - Flow
+>Usage - Flow
 1. Initially the data will be fetched from hackernew.json' API.
 2. Data from API is saved in Session Storage(SS) with key name: 'news'.
 3. Thereafter it's loaded from Session Storage(LS).
@@ -20,7 +20,7 @@ Usage - Flow
 7. Each and Every code has been commented in HTML, CSS, JS.
 
 
-Sorting
+>Sorting
 1.Sorting feature has been added:
  * No. of Points:
    * Ascending Order
@@ -30,12 +30,12 @@ Sorting
     *  Descending Order
 
 
-Search
+>Search
 1. Search Functionality has been added.
 2. Data will be shown as we type in the search box
 
 
-Extra
+>Extra
 1. Refresh button added at top right corner to call fresh API.
 2. Tooltips Added.
 
