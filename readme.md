@@ -43,4 +43,4 @@ A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 Check out the [Demo](http://ashwinkshenoy.github.io/hackernews)
 
 
-[![Preview](https://raw.githubusercontent.com/ashwinkshenoy/hackernews/master/screenshot.png)](http://ashwinshenoy.com/hackernews)
+[![Preview](https://raw.githubusercontent.com/ashwinkshenoy/hackernews/gh-pages/screenshot.png)](http://ashwinshenoy.com/hackernews)
