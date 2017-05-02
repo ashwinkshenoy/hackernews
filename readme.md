@@ -5,6 +5,7 @@ HACKER NEWS - CLEARTRIP
 A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 
 
+
 Installation
 1. Preferably add the folder in LAMP/LEMP/XAMPP server and open via localhost
 
