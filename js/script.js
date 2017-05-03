@@ -1,6 +1,8 @@
 
+// =========================
 // ashwinkshenoy@gmail.com
-
+// Developed using pure Javascript/Jquery!
+// =========================
 
 // pushData function (to HTML)
 var pushData = function(news, number){
@@ -171,6 +173,7 @@ var search1 = function(){
 // Search end
 
 
+
 // (fresh fetch api)
 // Extra feature added on refresh button click on top right corner
 var fetchApi = function(){
@@ -189,7 +192,7 @@ var fetchApi = function(){
 			sessionStorage.setItem('news_api_rate_limit', JSON.stringify(news[0]));
 			news.splice(0,1);
 			sessionStorage.setItem('news', JSON.stringify(news));
-			console.log('---Saved data from API to session Storage---');
+			console.log('---Saved data from API to Session Storage---');
 			document.getElementById('loader').style.display = 'none';
 			document.getElementById('refresh').classList.remove('fa-spin');
 			pushData(news, 0);
@@ -212,15 +215,15 @@ $(document).ready(function($) {
 	var status = JSON.parse(sessionStorage.getItem('news'));
 	if(status == null) {
 		document.getElementById('loader').style.display = 'block';
-		console.log('---No data found in session Storage---');
+		console.log('---No data found in Session Storage---');
 		console.log('---Fetching data from API---');
 		// Call External API
 		// Call FetchApi function
 		fetchApi();
 	} else {
-		// Use LS
-		console.log('---Data Found in session Storage---');
-		console.log('---Fetching from session Storage---');
+		// Use Session Storage
+		console.log('---Data Found in Session Storage---');
+		console.log('---Fetching from Session Storage---');
 		document.getElementById('loader').style.display = 'block';
 		var news = JSON.parse(sessionStorage.getItem('news'));
 		document.getElementById('loader').style.display = 'none';
