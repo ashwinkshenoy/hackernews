@@ -13,7 +13,7 @@ A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 >Usage - Flow
 1. Initially the data will be fetched from hackernew.json' API.
 2. Data from API is saved in Session Storage(SS) with key name: 'news'.
-3. Thereafter it's loaded from Session Storage(LS).
+3. Thereafter it's loaded from Session Storage(SS).
 4. Fonts used - FontAwesome.
 5. Front End framework - Bootstrap.
 6. Google Fonts - Open Sans used.
@@ -38,6 +38,8 @@ A Simple 1 hour hackathon to implement HackerNews UI/UX using Javascript/Jquery!
 >Extra
 1. Refresh button added at top right corner to call fresh API.
 2. Tooltips Added.
+
+---
 
 
 Check out the [Demo](http://ashwinkshenoy.github.io/hackernews)
