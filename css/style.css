@@ -121,9 +121,9 @@ a:focus {
 	font-weight: 600;
 	color: #777;
 }
-/* .news-list table {
-	margin-top: -20px;
-} */
+.news-list table {
+	margin-top: 20px;
+}
 .news-list table td {
 	vertical-align: top;
 }
